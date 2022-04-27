@@ -1,0 +1,9 @@
+# Rapise Tests
+*.user
+*.trp
+Reports
+*.log
+*.tap
+Repository.json
+record.cmd
+*.bak

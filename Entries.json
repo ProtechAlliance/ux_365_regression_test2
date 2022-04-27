@@ -1,0 +1,1650 @@
+{
+  "files": [
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Config.json",
+      "fileLastModifiedDate": "6/10/2021 11:12:33 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\ExhibitData.xlsx",
+      "fileLastModifiedDate": "11/17/2021 4:54:35 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\InvoiceData.xlsx",
+      "fileLastModifiedDate": "10/11/2021 3:33:32 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:31 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:31 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\MeetingData.xlsx",
+      "fileLastModifiedDate": "1/7/2022 5:29:32 PM",
+      "fileVersion": 16.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\MembershipData.xls",
+      "fileLastModifiedDate": "12/15/2021 3:48:37 PM",
+      "fileVersion": 18.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Objects.js",
+      "fileLastModifiedDate": "5/18/2021 11:44:04 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:31 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\ProductSalesData.xlsx",
+      "fileLastModifiedDate": "8/31/2021 9:49:28 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\ProrateData.xls",
+      "fileLastModifiedDate": "12/8/2021 3:38:11 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\RenewalBillingValidation.xlsx",
+      "fileLastModifiedDate": "12/28/2021 3:21:50 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\RenewalBillingValidation2.xlsx",
+      "fileLastModifiedDate": "12/6/2021 2:03:01 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\RenwalBillingCheckpointSummary.xlsx",
+      "fileLastModifiedDate": "12/6/2021 2:03:43 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\RenwalBillingCheckpointSummary2.xlsx",
+      "fileLastModifiedDate": "12/2/2021 1:57:52 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Repository.json",
+      "fileLastModifiedDate": "1/29/2021 2:38:31 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\SetupData.xlsx",
+      "fileLastModifiedDate": "11/17/2021 4:30:19 PM",
+      "fileVersion": 8.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\User.js",
+      "fileLastModifiedDate": "1/9/2022 5:56:42 PM",
+      "fileVersion": 58.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\UX 365 Regression Testing.sstest",
+      "fileLastModifiedDate": "11/18/2021 9:32:01 AM",
+      "fileVersion": 12.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\UX 365v5.6 Regression Testing Checklist_ux365teammember_Wave 2_Edge_9.21.21_LAB Comments_10.19.21.xlsx",
+      "fileLastModifiedDate": "10/19/2021 4:24:19 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Accounting.sstest",
+      "fileLastModifiedDate": "11/11/2021 3:46:09 PM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Main.js",
+      "fileLastModifiedDate": "2/8/2021 5:39:59 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "2/8/2021 5:39:59 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Objects.js",
+      "fileLastModifiedDate": "1/7/2022 11:24:11 AM",
+      "fileVersion": 18.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Objects.metadata",
+      "fileLastModifiedDate": "1/7/2022 11:23:12 AM",
+      "fileVersion": 14.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Batch\\Create Batch.sstest",
+      "fileLastModifiedDate": "7/29/2021 1:57:03 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Batch\\Main.js",
+      "fileLastModifiedDate": "7/29/2021 1:51:26 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Batch\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/28/2021 3:10:10 PM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Chart of Accounts\\Create Chart of Accounts.sstest",
+      "fileLastModifiedDate": "7/12/2021 12:41:05 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Chart of Accounts\\Main.js",
+      "fileLastModifiedDate": "7/12/2021 12:12:08 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Chart of Accounts\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 2:12:54 PM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Company\\Create Company.sstest",
+      "fileLastModifiedDate": "9/7/2021 1:13:00 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Company\\Main.js",
+      "fileLastModifiedDate": "7/12/2021 10:55:39 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Company\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 11:25:05 AM",
+      "fileVersion": 11.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Tax Product\\Create Tax Product.sstest",
+      "fileLastModifiedDate": "11/11/2021 2:13:13 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Tax Product\\Main.js",
+      "fileLastModifiedDate": "11/11/2021 2:09:37 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Tax Product\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/11/2021 2:13:54 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Tax Rates\\Create Tax Rates.sstest",
+      "fileLastModifiedDate": "11/11/2021 3:19:19 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Tax Rates\\Main.js",
+      "fileLastModifiedDate": "11/11/2021 2:28:29 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Create Tax Rates\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 12:01:20 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Delete Batch\\Delete Batch.sstest",
+      "fileLastModifiedDate": "11/10/2021 2:54:04 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Delete Batch\\Main.js",
+      "fileLastModifiedDate": "11/10/2021 2:49:45 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Delete Batch\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/10/2021 2:53:24 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Validate Global Setup Defaults\\Main.js",
+      "fileLastModifiedDate": "11/11/2021 3:48:14 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Validate Global Setup Defaults\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 1:52:54 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounting\\Validate Global Setup Defaults\\Validate Global Setup Defaults.sstest",
+      "fileLastModifiedDate": "11/11/2021 3:55:51 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Accounts.sstest",
+      "fileLastModifiedDate": "11/18/2021 11:32:52 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Main.js",
+      "fileLastModifiedDate": "11/18/2021 9:32:41 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/18/2021 9:32:00 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Objects.js",
+      "fileLastModifiedDate": "11/18/2021 9:53:29 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Objects.metadata",
+      "fileLastModifiedDate": "11/18/2021 9:53:11 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Create new account\\Create new account.sstest",
+      "fileLastModifiedDate": "11/18/2021 9:58:52 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Create new account\\Main.js",
+      "fileLastModifiedDate": "11/18/2021 9:46:26 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Create new account\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/18/2021 9:56:15 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Delete account\\Delete account.sstest",
+      "fileLastModifiedDate": "11/18/2021 11:36:17 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Delete account\\Main.js",
+      "fileLastModifiedDate": "11/18/2021 11:32:52 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Accounts\\Delete account\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/18/2021 11:35:40 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Contacts.sstest",
+      "fileLastModifiedDate": "11/10/2021 2:37:26 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Main.js",
+      "fileLastModifiedDate": "6/7/2021 4:12:37 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "2/3/2021 11:12:23 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Objects.js",
+      "fileLastModifiedDate": "10/28/2021 3:33:02 PM",
+      "fileVersion": 14.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Objects.metadata",
+      "fileLastModifiedDate": "10/28/2021 3:32:40 PM",
+      "fileVersion": 10.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Create new contact\\Create new contact.sstest",
+      "fileLastModifiedDate": "6/7/2021 3:49:06 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Create new contact\\Main.js",
+      "fileLastModifiedDate": "2/3/2021 11:57:58 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Create new contact\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 3:55:00 PM",
+      "fileVersion": 30.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Delete contact\\Delete contact.sstest",
+      "fileLastModifiedDate": "11/10/2021 2:41:08 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Delete contact\\Main.js",
+      "fileLastModifiedDate": "11/10/2021 2:37:26 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Delete contact\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/10/2021 2:41:08 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Open contact\\Main.js",
+      "fileLastModifiedDate": "6/9/2021 12:36:49 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Open contact\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "6/16/2021 1:49:35 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Contacts\\Open contact\\Open contact.sstest",
+      "fileLastModifiedDate": "6/9/2021 12:36:09 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Exhibits.sstest",
+      "fileLastModifiedDate": "1/9/2022 8:28:36 AM",
+      "fileVersion": 10.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Main.js",
+      "fileLastModifiedDate": "11/5/2021 1:05:47 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/5/2021 1:05:08 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Objects.js",
+      "fileLastModifiedDate": "1/9/2022 5:27:05 PM",
+      "fileVersion": 13.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Objects.metadata",
+      "fileLastModifiedDate": "1/9/2022 5:26:31 PM",
+      "fileVersion": 12.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Booth to an Exhibit Contract\\Add Exhibit Booth to an Exhibit Contract.sstest",
+      "fileLastModifiedDate": "11/17/2021 2:58:25 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Booth to an Exhibit Contract\\Main.js",
+      "fileLastModifiedDate": "11/17/2021 2:52:42 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Booth to an Exhibit Contract\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/17/2021 3:41:59 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Contract to an Invoice\\Add Exhibit Contract to an Invoice.sstest",
+      "fileLastModifiedDate": "11/17/2021 2:16:21 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Contract to an Invoice\\Main.js",
+      "fileLastModifiedDate": "11/17/2021 2:09:52 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Contract to an Invoice\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/17/2021 2:32:04 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Misc. Product to an Exhibit Contract\\Add Exhibit Misc. Product to an Exhibit Contract.sstest",
+      "fileLastModifiedDate": "11/18/2021 8:28:57 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Misc. Product to an Exhibit Contract\\Main.js",
+      "fileLastModifiedDate": "11/17/2021 5:49:47 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Misc. Product to an Exhibit Contract\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/17/2021 5:58:51 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Rep to an Exhibit Contract\\Add Exhibit Rep to an Exhibit Contract.sstest",
+      "fileLastModifiedDate": "11/17/2021 4:08:49 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Rep to an Exhibit Contract\\Main.js",
+      "fileLastModifiedDate": "11/17/2021 4:06:29 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Add Exhibit Rep to an Exhibit Contract\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/17/2021 4:54:41 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Cancel Exhibit Contract and Add Cancellation Fee\\Cancel Exhibit Contract and Add Cancellation Fee.sstest",
+      "fileLastModifiedDate": "11/18/2021 9:21:31 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Cancel Exhibit Contract and Add Cancellation Fee\\Main.js",
+      "fileLastModifiedDate": "11/18/2021 9:19:52 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Cancel Exhibit Contract and Add Cancellation Fee\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/18/2021 9:27:38 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Badge Setup\\Create Exhibit Badge Setup.sstest",
+      "fileLastModifiedDate": "11/17/2021 1:37:21 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Badge Setup\\Main.js",
+      "fileLastModifiedDate": "11/17/2021 1:27:38 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Badge Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 5:49:44 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Product Setup\\Create Exhibit Product Setup.sstest",
+      "fileLastModifiedDate": "11/9/2021 11:20:00 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Product Setup\\Main.js",
+      "fileLastModifiedDate": "11/9/2021 10:18:05 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Product Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 9:16:53 AM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Setup\\Create Exhibit Setup.sstest",
+      "fileLastModifiedDate": "11/5/2021 2:42:04 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Setup\\Main.js",
+      "fileLastModifiedDate": "11/5/2021 1:31:44 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Create Exhibit Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/8/2021 4:18:06 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Exhibit Setup\\Exhibit Setup.sstest",
+      "fileLastModifiedDate": "1/9/2022 9:28:14 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Exhibit Setup\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 9:13:07 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Exhibits\\Exhibit Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 8:37:37 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Global.sstest",
+      "fileLastModifiedDate": "1/7/2022 9:22:00 AM",
+      "fileVersion": 5.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Main.js",
+      "fileLastModifiedDate": "2/9/2021 12:57:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "2/9/2021 12:57:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Objects.js",
+      "fileLastModifiedDate": "1/7/2022 10:51:08 AM",
+      "fileVersion": 5.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Objects.metadata",
+      "fileLastModifiedDate": "1/7/2022 10:51:08 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Global Setup\\Global Setup.sstest",
+      "fileLastModifiedDate": "1/7/2022 11:37:07 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Global Setup\\Main.js",
+      "fileLastModifiedDate": "1/7/2022 10:30:36 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Global Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 10:22:36 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Open test org\\Main.js",
+      "fileLastModifiedDate": "5/25/2021 8:57:42 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Open test org\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/22/2021 11:00:43 AM",
+      "fileVersion": 10.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Open test org\\Open test org.sstest",
+      "fileLastModifiedDate": "2/16/2021 3:21:07 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Set Application Parameter Config. Values\\Main.js",
+      "fileLastModifiedDate": "11/11/2021 4:04:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Set Application Parameter Config. Values\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 11:02:16 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Set Application Parameter Config. Values\\Set Application Parameter Config. Values.sstest",
+      "fileLastModifiedDate": "11/11/2021 4:32:23 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Transaction Clean Up\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 10:24:49 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Transaction Clean Up\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 10:24:49 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Global\\Transaction Clean Up\\Transaction Clean Up.sstest",
+      "fileLastModifiedDate": "1/9/2022 10:24:49 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Delete Test Data\\HL Delete Test Data.sstest",
+      "fileLastModifiedDate": "1/29/2021 2:38:32 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Delete Test Data\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:32 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Delete Test Data\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:32 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Delete Test Data\\Objects.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:32 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Delete Test Data\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:32 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Exhibits\\HL Exhibits.sstest",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Exhibits\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Exhibits\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Exhibits\\Objects.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Exhibits\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Fundraising\\HL Fundraising.sstest",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Fundraising\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Fundraising\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Fundraising\\Objects.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Fundraising\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Meetings\\HL Meetings.sstest",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Meetings\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:33 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Meetings\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Meetings\\Objects.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Meetings\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Product Sales\\HL Product Sales.sstest",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Product Sales\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Product Sales\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Product Sales\\Objects.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Product Sales\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Renewal Billing\\HL Renewal Billing.sstest",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Renewal Billing\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Renewal Billing\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Renewal Billing\\Objects.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\HL Renewal Billing\\Objects.metadata",
+      "fileLastModifiedDate": "1/29/2021 2:38:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Invoice.sstest",
+      "fileLastModifiedDate": "1/9/2022 10:08:32 AM",
+      "fileVersion": 10.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Objects.js",
+      "fileLastModifiedDate": "1/9/2022 10:28:21 AM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Objects.metadata",
+      "fileLastModifiedDate": "1/9/2022 10:28:21 AM",
+      "fileVersion": 8.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction\\Begin Transaction.sstest",
+      "fileLastModifiedDate": "1/9/2022 10:08:01 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 10:08:01 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 10:08:01 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction for Account\\Begin Transaction for Account.sstest",
+      "fileLastModifiedDate": "1/9/2022 9:55:22 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction for Account\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 9:52:54 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction for Account\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 9:51:19 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction for Contact\\Begin Transaction for Contact.sstest",
+      "fileLastModifiedDate": "1/9/2022 10:04:21 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction for Contact\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 10:28:21 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Begin Transaction for Contact\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 10:02:28 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Create Invoice\\Create Invoice.sstest",
+      "fileLastModifiedDate": "4/21/2021 4:18:10 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Create Invoice\\Main.js",
+      "fileLastModifiedDate": "4/21/2021 4:12:49 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Create Invoice\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "7/29/2021 2:36:55 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Delete Invoice\\Delete Invoice.sstest",
+      "fileLastModifiedDate": "11/10/2021 2:35:27 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Delete Invoice\\Main.js",
+      "fileLastModifiedDate": "11/10/2021 2:19:41 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Delete Invoice\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/10/2021 2:28:55 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Delete Invoice Detail\\Delete Invoice Detail.sstest",
+      "fileLastModifiedDate": "11/10/2021 1:43:33 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Delete Invoice Detail\\Main.js",
+      "fileLastModifiedDate": "11/10/2021 11:27:37 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Delete Invoice Detail\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/3/2022 1:13:26 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Open Invoice\\Main.js",
+      "fileLastModifiedDate": "4/22/2021 11:33:39 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Open Invoice\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "4/22/2021 11:42:23 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Open Invoice\\Open Invoice.sstest",
+      "fileLastModifiedDate": "4/22/2021 11:44:19 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Transaction Clean Up for Account\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 10:25:21 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Transaction Clean Up for Account\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 10:09:24 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Transaction Clean Up for Account\\Transaction Clean Up for Account.sstest",
+      "fileLastModifiedDate": "1/9/2022 10:11:31 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Transaction Clean Up for Contact\\Main.js",
+      "fileLastModifiedDate": "1/9/2022 10:22:54 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Transaction Clean Up for Contact\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 10:15:22 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Transaction Clean Up for Contact\\Transaction Clean Up for Contact.sstest",
+      "fileLastModifiedDate": "1/9/2022 10:17:12 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Validate Invoice Totals\\Main.js",
+      "fileLastModifiedDate": "10/11/2021 3:11:13 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Validate Invoice Totals\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/11/2021 3:33:28 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Invoice\\Validate Invoice Totals\\Validate Invoice Totals.sstest",
+      "fileLastModifiedDate": "10/11/2021 3:36:17 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Main.js",
+      "fileLastModifiedDate": "5/25/2021 11:59:58 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/25/2021 12:31:03 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meetings.sstest",
+      "fileLastModifiedDate": "1/7/2022 12:28:59 PM",
+      "fileVersion": 14.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Objects.js",
+      "fileLastModifiedDate": "1/7/2022 5:09:12 PM",
+      "fileVersion": 25.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Objects.metadata",
+      "fileLastModifiedDate": "1/7/2022 5:08:25 PM",
+      "fileVersion": 23.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Guest Event Registration Transaction\\Add Guest Event Registration Transaction.sstest",
+      "fileLastModifiedDate": "10/8/2021 3:47:37 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Guest Event Registration Transaction\\Main.js",
+      "fileLastModifiedDate": "10/8/2021 3:08:22 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Guest Event Registration Transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/2/2021 2:54:16 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Main Event Registration Transaction\\Add Main Event Registration Transaction.sstest",
+      "fileLastModifiedDate": "11/2/2021 11:14:41 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Main Event Registration Transaction\\Main.js",
+      "fileLastModifiedDate": "10/6/2021 3:03:34 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Main Event Registration Transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/22/2021 12:07:26 PM",
+      "fileVersion": 8.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Session Registration Transaction\\Add Session Registration Transaction.sstest",
+      "fileLastModifiedDate": "10/11/2021 2:30:30 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Session Registration Transaction\\Main.js",
+      "fileLastModifiedDate": "10/11/2021 1:55:57 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Add Session Registration Transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 5:14:24 PM",
+      "fileVersion": 8.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Cancel Meeting Registration and Add Cancellation Fee\\Cancel Meeting Registration and Add Cancellation Fee.sstest",
+      "fileLastModifiedDate": "11/10/2021 10:57:25 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Cancel Meeting Registration and Add Cancellation Fee\\Main.js",
+      "fileLastModifiedDate": "11/10/2021 10:40:35 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Cancel Meeting Registration and Add Cancellation Fee\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/11/2021 5:09:55 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Meeting Setup\\Create Event Meeting Setup.sstest",
+      "fileLastModifiedDate": "5/27/2021 1:49:27 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Meeting Setup\\Main.js",
+      "fileLastModifiedDate": "5/27/2021 1:31:31 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Meeting Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 3:08:45 PM",
+      "fileVersion": 6.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Registration Setup\\Create Event Registration Setup.sstest",
+      "fileLastModifiedDate": "10/4/2021 3:15:53 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Registration Setup\\Main.js",
+      "fileLastModifiedDate": "10/4/2021 3:02:20 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Registration Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 12:43:30 PM",
+      "fileVersion": 10.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Session Setup\\Create Event Session Setup.sstest",
+      "fileLastModifiedDate": "11/3/2021 4:01:58 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Session Setup\\Main.js",
+      "fileLastModifiedDate": "10/5/2021 4:17:57 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Session Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 3:06:19 PM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Setup\\Create Event Setup.sstest",
+      "fileLastModifiedDate": "9/30/2021 4:02:34 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Setup\\Main.js",
+      "fileLastModifiedDate": "9/30/2021 4:17:34 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create Event Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/4/2021 11:24:17 AM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create New Location Setup\\Create New Location Setup.sstest",
+      "fileLastModifiedDate": "9/30/2021 3:31:26 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create New Location Setup\\Main.js",
+      "fileLastModifiedDate": "9/30/2021 3:21:42 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Create New Location Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/25/2021 1:55:38 PM",
+      "fileVersion": 12.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meeting Setup\\Main.js",
+      "fileLastModifiedDate": "1/7/2022 12:55:30 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meeting Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 12:54:37 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meeting Setup\\Meeting Setup.sstest",
+      "fileLastModifiedDate": "1/7/2022 1:46:10 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meeting Transaction\\Main.js",
+      "fileLastModifiedDate": "1/7/2022 4:15:05 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meeting Transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 4:15:05 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Meeting Transaction\\Meeting Transaction.sstest",
+      "fileLastModifiedDate": "1/7/2022 4:15:05 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Open Event Meeting Setup\\Main.js",
+      "fileLastModifiedDate": "10/27/2021 9:50:56 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Open Event Meeting Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/27/2021 9:50:00 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Meetings\\Open Event Meeting Setup\\Open Event Meeting Setup.sstest",
+      "fileLastModifiedDate": "10/27/2021 9:50:00 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Main.js",
+      "fileLastModifiedDate": "5/17/2021 9:59:27 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/14/2021 3:57:08 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Membership.sstest",
+      "fileLastModifiedDate": "1/5/2022 11:35:25 AM",
+      "fileVersion": 19.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\MembershipObjects.js",
+      "fileLastModifiedDate": "12/2/2021 1:56:36 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Objects.js",
+      "fileLastModifiedDate": "1/5/2022 5:57:18 PM",
+      "fileVersion": 37.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Objects.metadata",
+      "fileLastModifiedDate": "1/5/2022 5:57:19 PM",
+      "fileVersion": 33.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Add new membership transaction\\Add new membership transaction.sstest",
+      "fileLastModifiedDate": "11/29/2021 3:51:19 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Add new membership transaction\\Main.js",
+      "fileLastModifiedDate": "11/29/2021 3:29:51 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Add new membership transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/29/2021 3:53:10 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Add new membership transaction (Calendar, Begin Jan, Current Prorate)\\Add new membership transaction (Calendar, Begin Jan, Current Prorate).sstest",
+      "fileLastModifiedDate": "5/18/2021 2:24:58 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Add new membership transaction (Calendar, Begin Jan, Current Prorate)\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 1:50:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Add new membership transaction (Calendar, Begin Jan, Current Prorate)\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/18/2021 2:22:49 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Begin Jan Prorate Schedule\\Create Begin Jan Prorate Schedule.sstest",
+      "fileLastModifiedDate": "5/18/2021 11:26:29 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Begin Jan Prorate Schedule\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 11:25:57 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Begin Jan Prorate Schedule\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/19/2021 3:02:12 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Begin Jan Prorate Schedule\\ProrateData.xls",
+      "fileLastModifiedDate": "5/17/2021 10:32:05 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Begin Jan Prorate Schedule\\Prorates.xlsx",
+      "fileLastModifiedDate": "5/17/2021 10:15:11 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Benefit\\Create Benefit.sstest",
+      "fileLastModifiedDate": "10/22/2021 10:26:10 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Benefit\\Main.js",
+      "fileLastModifiedDate": "7/28/2021 1:13:41 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Benefit\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "12/15/2021 10:49:19 AM",
+      "fileVersion": 10.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Benefit - Calendar, Begin Jan, Current Prorate\\Create Benefit - Calendar, Begin Jan, Current Prorate.sstest",
+      "fileLastModifiedDate": "5/17/2021 10:59:04 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Benefit - Calendar, Begin Jan, Current Prorate\\Main.js",
+      "fileLastModifiedDate": "5/17/2021 10:44:00 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Benefit - Calendar, Begin Jan, Current Prorate\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "7/26/2021 10:50:10 AM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Dues Billing Product\\Create Dues Billing Product.sstest",
+      "fileLastModifiedDate": "7/26/2021 2:59:47 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Dues Billing Product\\Main.js",
+      "fileLastModifiedDate": "5/14/2021 4:23:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Dues Billing Product\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/19/2021 3:00:08 PM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Installments\\Create Installments.sstest",
+      "fileLastModifiedDate": "5/18/2021 1:10:22 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Installments\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 11:30:22 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Installments\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/23/2021 4:17:25 PM",
+      "fileVersion": 6.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Price Level X-Ref\\Create Price Level X-Ref.sstest",
+      "fileLastModifiedDate": "5/18/2021 1:39:39 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Price Level X-Ref\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 1:38:52 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Price Level X-Ref\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 8:26:36 PM",
+      "fileVersion": 6.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Prorate Setup\\Create Prorate Setup.sstest",
+      "fileLastModifiedDate": "12/8/2021 3:41:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Prorate Setup\\Main.js",
+      "fileLastModifiedDate": "12/8/2021 3:17:56 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Prorate Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 7:57:39 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Rate\\Create Rate.sstest",
+      "fileLastModifiedDate": "11/22/2021 1:06:17 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Rate\\Main.js",
+      "fileLastModifiedDate": "7/28/2021 4:29:46 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Rate\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/22/2021 3:40:13 PM",
+      "fileVersion": 7.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Rate - Quantity, 1 Year Annual\\Create Rate - Quantity, 1 Year Annual.sstest",
+      "fileLastModifiedDate": "5/18/2021 11:02:59 AM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Rate - Quantity, 1 Year Annual\\Main.js",
+      "fileLastModifiedDate": "5/17/2021 1:44:55 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Create Rate - Quantity, 1 Year Annual\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/18/2021 11:04:23 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Generate RB Invoices\\Generate RB Invoices.sstest",
+      "fileLastModifiedDate": "5/18/2021 2:51:20 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Generate RB Invoices\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 2:44:21 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Generate RB Invoices\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/18/2021 2:49:02 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Membership Setup\\Main.js",
+      "fileLastModifiedDate": "1/5/2022 5:57:19 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Membership Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/5/2022 11:43:17 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Membership Setup\\Membership Setup.sstest",
+      "fileLastModifiedDate": "1/5/2022 12:56:02 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Renewal Billing Cycle for New Renewal\\Main.js",
+      "fileLastModifiedDate": "12/2/2021 2:22:27 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Renewal Billing Cycle for New Renewal\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/5/2022 11:03:23 AM",
+      "fileVersion": 6.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Renewal Billing Cycle for New Renewal\\Renewal Billing Cycle for New Renewal.sstest",
+      "fileLastModifiedDate": "12/17/2021 1:25:13 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Terminate membership\\Main.js",
+      "fileLastModifiedDate": "5/25/2021 10:27:44 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Terminate membership\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/25/2021 11:00:02 AM",
+      "fileVersion": 6.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Terminate membership\\Terminate membership.sstest",
+      "fileLastModifiedDate": "5/25/2021 10:57:58 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Cart and Invoice - Only the Invoice part is relevant\\Main.js",
+      "fileLastModifiedDate": "12/6/2021 2:04:28 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Cart and Invoice - Only the Invoice part is relevant\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "12/6/2021 2:04:28 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Cart and Invoice - Only the Invoice part is relevant\\ProrateInvoiceValidation.xlsx",
+      "fileLastModifiedDate": "12/6/2021 2:04:28 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Cart and Invoice - Only the Invoice part is relevant\\ShoppingCartDoOver1.sstest",
+      "fileLastModifiedDate": "12/6/2021 2:04:28 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Cart and Invoice - Only the Invoice part is relevant\\ShoppingCartObjects.js",
+      "fileLastModifiedDate": "12/6/2021 2:04:28 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Cart and Invoice - Only the Invoice part is relevant\\validatecartwithObjectIDs.xlsx",
+      "fileLastModifiedDate": "12/6/2021 2:04:28 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Member updates in Account\\Objects.js",
+      "fileLastModifiedDate": "5/18/2021 2:58:43 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Member updates in Account\\Objects.metadata",
+      "fileLastModifiedDate": "5/18/2021 2:58:21 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Member updates in Account\\Validate Member updates in AccountContact record\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 2:56:34 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Member updates in Account\\Validate Member updates in AccountContact record\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/18/2021 2:57:24 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Member updates in Account\\Validate Member updates in AccountContact record\\Validate Member updates in AccountContact record.sstest",
+      "fileLastModifiedDate": "5/18/2021 3:00:01 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Renewal Billing record created for new membership (before payment)\\Main.js",
+      "fileLastModifiedDate": "5/18/2021 2:32:56 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Renewal Billing record created for new membership (before payment)\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "6/15/2021 4:39:21 PM",
+      "fileVersion": 5.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Renewal Billing record created for new membership (before payment)\\Validate Renewal Billing record created for new membership (before payment).sstest",
+      "fileLastModifiedDate": "5/18/2021 2:37:54 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Renewal Invoice generated\\Main.js",
+      "fileLastModifiedDate": "5/21/2021 3:56:45 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Renewal Invoice generated\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "5/21/2021 4:20:21 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\Validate Renewal Invoice generated\\Validate Renewal Invoice generated.sstest",
+      "fileLastModifiedDate": "6/16/2021 10:47:06 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\ValidateRenewalBillingDynamic Rapise\\Main.js",
+      "fileLastModifiedDate": "12/6/2021 2:05:10 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\ValidateRenewalBillingDynamic Rapise\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "12/6/2021 2:05:10 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Membership\\ValidateRenewalBillingDynamic Rapise\\ValidateRenewalBillingDynamic.sstest",
+      "fileLastModifiedDate": "12/6/2021 2:05:10 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Main.js",
+      "fileLastModifiedDate": "1/29/2021 2:38:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/29/2021 2:38:35 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Objects.js",
+      "fileLastModifiedDate": "1/7/2022 11:31:29 AM",
+      "fileVersion": 8.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Objects.metadata",
+      "fileLastModifiedDate": "1/7/2022 11:30:39 AM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Payments",
+      "fileLastModifiedDate": "2/2/2021 1:37:07 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Payments.sstest",
+      "fileLastModifiedDate": "2/9/2021 12:47:26 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Create check payment product\\Create check payment product.sstest",
+      "fileLastModifiedDate": "4/21/2021 3:35:18 PM",
+      "fileVersion": 4.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Create check payment product\\Main.js",
+      "fileLastModifiedDate": "4/21/2021 3:30:36 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Create check payment product\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 11:31:35 AM",
+      "fileVersion": 9.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Pay invoice in full with check\\Main.js",
+      "fileLastModifiedDate": "2/9/2021 12:47:26 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Pay invoice in full with check\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "11/17/2021 2:29:37 PM",
+      "fileVersion": 7.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Payments\\Pay invoice in full with check\\Pay invoice in full with check.sstest",
+      "fileLastModifiedDate": "10/12/2021 1:31:47 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Main.js",
+      "fileLastModifiedDate": "2/2/2021 1:27:42 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "2/2/2021 1:32:44 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Objects.js",
+      "fileLastModifiedDate": "1/3/2022 11:58:52 AM",
+      "fileVersion": 12.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Objects.metadata",
+      "fileLastModifiedDate": "1/3/2022 11:58:53 AM",
+      "fileVersion": 11.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Sales",
+      "fileLastModifiedDate": "2/9/2021 12:26:42 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Sales.sstest",
+      "fileLastModifiedDate": "1/7/2022 3:38:50 PM",
+      "fileVersion": 6.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Add sales non-inventory product transaction\\Add sales non-inventory product transaction.sstest",
+      "fileLastModifiedDate": "8/31/2021 12:26:35 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Add sales non-inventory product transaction\\Main.js",
+      "fileLastModifiedDate": "2/9/2021 12:36:13 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Add sales non-inventory product transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "10/18/2021 4:30:05 PM",
+      "fileVersion": 11.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Create sales non-inventory product\\Create sales non-inventory product.sstest",
+      "fileLastModifiedDate": "7/29/2021 1:00:07 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Create sales non-inventory product\\Main.js",
+      "fileLastModifiedDate": "2/15/2021 1:22:08 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Create sales non-inventory product\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/9/2022 2:45:20 PM",
+      "fileVersion": 12.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Sales Non-Inventory Transaction\\Main.js",
+      "fileLastModifiedDate": "1/3/2022 11:58:53 AM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Sales Non-Inventory Transaction\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 3:45:58 PM",
+      "fileVersion": 8.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Sales Non-Inventory Transaction\\Product Sales Non-Inventory Transaction.sstest",
+      "fileLastModifiedDate": "1/3/2022 1:19:52 PM",
+      "fileVersion": 3.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Setup\\Main.js",
+      "fileLastModifiedDate": "1/7/2022 3:38:49 PM",
+      "fileVersion": 1.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Setup\\Main.rvl.xlsx",
+      "fileLastModifiedDate": "1/7/2022 3:44:41 PM",
+      "fileVersion": 2.0
+    },
+    {
+      "fileName": "C:\\SpiraRepository\\UX 365 Regression Testing\\Product Sales\\Product Setup\\Product Setup.sstest",
+      "fileLastModifiedDate": "1/7/2022 3:44:26 PM",
+      "fileVersion": 1.0
+    }
+  ],
+  "projectId": 11
+}
