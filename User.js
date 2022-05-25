@@ -7,71 +7,6 @@ function TestInit()
 }
 
 
-var g_TaxProduct = "TUXr Tax"
-var g_TaxProductID = "TUXrTax"
-var g_Promotion = "TUXr 20P Off All"
-var g_PromotionCode = "TUXR20PERALL"
-var g_PromotionAmount = "20"
-var g_NonInvProduct = "TUXr Sales Non-Inv Product"
-var g_NonInvProdID = "TUXrNONIN"
-var	g_NonInvPrice = "$100.00"
-var InvProduct = "TUXr Sales Inventory Product"
-var InvProdID = "TUXrIN"
-var InvPrice = "$50.00"
-var FreightProduct = "TUXr Freight"
-var FreightProductID = "TUXrFreight"
-var RestockProduct = "TUXr Restocking Fee"
-var RestockProductID = "TUXrRestock"
-var RestockPrice = "$5.00"
-var g_Event = "TUXr Event"
-var g_EventID = "TUXREVENT"
-var g_Meeting = "TUXr Meeting"
-var g_MeetingID = "TUXRMEETING"
-var	g_MainReg = "TUXr Main"
-var g_MainRegID = "TUXRMAIN"
-var g_MainRegPrice = "$100.00"
-var g_GuestReg = "TUXr Guest"
-var g_GuestRegID = "TUXRGUEST"
-var g_GuestRegPrice = "$25.00"
-var g_Session1 = "TUXr Session 1"
-var g_Session1ID = "TUXRS1"
-var g_Session1Price = "$5.00"
-var g_Location = "TUXr Florida Account"
-var g_Exhibit = "TUXr Exhibit"
-var g_ExhibitID = "TUXrExhibit"
-var	g_FlatBooth = "TUXr Flat Rate Booth"
-var g_FlatBoothPrice = "$500.00"
-var g_FlatBoothID = "TUXrFLAT"
-var g_BoothSqFt = "TUXr Booth by Sq Ft"
-var g_BoothSqFtID = "TUXrSqFt"
-var g_Rep = "TUXr Rep"
-var g_RepID = "TUXrRep"
-var g_RepPrice = "$50.00"
-var g_ExhibitMisc = "TUXr Exhibit Misc Product"
-var g_ExhibitMiscPrice = "$25.00"
-var g_ExhibitMiscID = "TUXrMisc"
-var g_AnniMemberBenefit = "TUXr Membership Anniversary Begin Current Month"
-var g_QRate1Year = "TUXr Quantity 1 Year Rate"
-var g_QRate1YearPrice = "$120.00"
-var g_MembershipProduct = "TUXr Membership Dues"
-var g_MembershipProductID = "TUXrMembership"
-var g_Contribution = "TUXr Contribution"
-var g_ContributionID = "TUXrContribution"
-var g_Pledge = "TUXr Pledge"
-var g_PledgeID = "TUXrPledge"
-var g_RecurringGift = "TUXr Recurring Gift"
-var g_RecurringGiftID = "TUXrRGIFT"
-var g_GiftInKind = "TUXr Gift In Kind"
-var g_GiftInKindID	= "TUXrGIFTKIND"
-var g_AuctionItem = "TUXr Auction Item"
-var g_AuctionItemID = "TUXrAUCTION"
-var g_PermContact = "Rapise, Permanent"
-var g_TransferProduct = "_TUXr Transfer"
-var g_TransferProductID = "_TUXRTANSFER"
-
-
-var ColStart = 2;
-var ColEnd	= -1;
 
 function LogAssert(/**string*/ msg)
 {
@@ -104,11 +39,13 @@ function ux_Launch()
 	LoginMicrosoftOnline(url, usr, pwd);
 }
 
+
+
 /**
  * Changes area in the left bottom corner of the dashboard.
  */
 
-function ux_ChangeArea(/**string*/ name)
+function ux_OLDChangeArea(/**string*/ name)
 {
     
     Global.DoSleep(1000);
@@ -128,11 +65,60 @@ function ux_ChangeArea(/**string*/ name)
     }
 }
 
+function ux_ChangeArea(/**string*/ name)
+{
+    
+    Global.DoSleep(1000);
+    
+    var xpath = "//button[@type='button' and @data-id='sitemap-areaSwitcher-expand-btn' and @data-lp-id='sitemap-areaSwitcher-expand-btn' and @id='areaSwitcherId']";
+    var obj1 = CrmFindObject(xpath);
+    if (obj1)    
+    {
+        obj1.object_name = name;
+        Global.DoSleep(1000);
+        obj1.DoClick();
+    }
+    else
+    {
+        LogAssert("ux_ChangeArea: area element is not found: " + name, false);
+    }
+    
+    Global.DoSleep(1000);
+    var xpath = "//li[@role='menuitemradio' and .='" + name + "']";
+    var obj = CrmFindObject(xpath);
+    if (obj)    
+    {
+        obj.object_name = name;
+        Global.DoSleep(1000);
+        obj.DoClick();
+    }
+    else
+    {
+        LogAssert("ux_ChangeArea: area element is not found: " + name, false);
+    }
+}
+
 
 /**
  * Opens entity in the site map.
  */
-function ux_OpenEntity(/**string*/ entity)
+ 
+ function ux_OpenEntity(/**string*/ entity)
+ {
+      var xpath = "//span[normalize-space(.)='" + entity + "']";
+      var obj = CrmFindObject(xpath);
+      if (obj)    
+      {
+            obj.object_name = entity;
+            obj.DoClick();
+      }
+      else
+      {
+            LogAssert("ux_OpenEntity: entity element is not found: " + entity, false);
+      }     
+}
+
+function ux_OLDOpenEntity(/**string*/ entity)
 {
 	var xpath = "//li[@aria-label='" + entity + "' and contains(@id,'sitemap-entity')]";
 	var obj = CrmFindObject(xpath);
@@ -195,9 +181,18 @@ function ux_SaveandClose()
 /**
  * Clicks Save button on a toolbar.
  */
-function ux_SaveRecord(/**string*/ name)
+ 
+ function ux_SaveRecord()
 {
-	var xpath = "//button[@aria-label='Save (CTRL+S)']";
+	ux_ClickButton('Save (CTRL+S)');
+	
+}
+
+function ux_OLDSaveRecord()
+{
+	ux_ClickButton('Save (CTRL+S)');
+	var name = 'Save (CTRL+S)'
+	var xpath = "//button[@aria-label=" + name + "']";
 	var obj = CrmFindObject(xpath);
 	if (obj)	
 	{
@@ -207,7 +202,7 @@ function ux_SaveRecord(/**string*/ name)
 	}
 	else
 	{
-		LogAssert("ux_ClickButton: Save button element is not found: " + name, false);
+		LogAssert("ux_ClickButton: Save button element is not found: ", false);
 	}
 }
 
@@ -321,7 +316,7 @@ function ux_SearchRecords(/**string*/ value)
 	input.object_name = "SearchField";
 	button.object_name = "SearchButton";
 	
-	input.DoClick();
+	input._DoClick();
 	input.DoSetText(value);
 	button.DoClick();
 	Global.DoSleep(1000);
@@ -436,7 +431,7 @@ function ux_SetText (/**objectId*/ field, /**string*/ value)
 	var obj = SeS(field);
 	if (obj)
 	{
-		obj.DoClick();
+		obj._DoClick();
 		obj.DoSetText(value);
 	}
 	else
@@ -540,9 +535,29 @@ function ux_CheckDateValue (/**objectId*/ field, /**string*/ FieldName, /**strin
     }
 }
 
+function ux_CheckHeaderValue (/**string*/ ExpectedValue)
+{	
+	var xpath = "//h1[@data-id='header_title']";
+	var obj = CrmFindObject(xpath);
+	if (obj)	
+	{
+		var ActualValue = obj.GetTitle();
+	}
+	
+	Tester.Message('Checking Header Value');
+	
+    if( ExpectedValue == ActualValue )
+    {
+   		Tester.Message('Value is correct: '+ActualValue);
+    }
+    else
+    {
+    	Tester.Message('Expected Value: '+ExpectedValue);
+        LogAssert('Value is incorrect: '+ActualValue, false);
+    }
+}
 
-
-function ux_CheckHeaderValue (/**objectId*/ field, /**string*/ FieldName, /**string*/ ExpectedValue)
+function ux_OLDCheckHeaderValue (/**objectId*/ field, /**string*/ FieldName, /**string*/ ExpectedValue)
 {	
 
 	var ActualValue = SeS(field).GetTitle();
@@ -581,47 +596,34 @@ function ux_CheckBitField(/**objectId*/ field, /**string*/ FieldName, /**boolean
 function ux_SelectBatch (/**string*/ BatchNumber)
 {
 	ux_ClickButton("Select Batch")
-    SeS('SelectBatch_SearchBox').DoClick();
-    SeS('SelectBatch_SearchBox').DoSetText('*' +BatchNumber);
-    SeS('SelectBatch_SearchIcon').DoClick();
-    SeS('SelectBatch_SearchResults').DoClick();
+    SeS('SelectBatch_SearchBox')._DoClick();
+    SeS('SelectBatch_SearchBox').DoSetText(BatchNumber);
+    SeS('SelectBatch_SearchIcon')._DoClick();
+    SeS('SelectBatch_SearchResults')._DoClick();
     SeS('SelectBatch_Add').DoClick();
     ux_SaveRecord()
 }
 
 
-function ux_OLDOpenInvoiceDetail (/**string*/ description)
-{
-	var xpath = "//label[@role='presentation' and normalize-space(.)='" + description +"']";
-	var obj = CrmFindObject(xpath);
-	if (obj)	
-	{
-		obj.object_name = description;
-			obj._DoLDClick();
-	}
-	else
-	{
-		LogAssert("OpenInvoiceDetail: description element is not found: " + description, false);
-	}	
-}
 
 
-function ux_OLDOpenInvoiceDetail2 (/**string*/ description)
-{
-	var xpath = "//label[contains(@title, '" + description +"')]";
-	var obj = CrmFindObject(xpath);
-	if (obj)	
-	{
-		obj.object_name = description;
-			obj._DoLDClick();
-	}
-	else
-	{
-		LogAssert("OpenInvoiceDetail: description element is not found: " + description, false);
-	}	
-}
 
 function ux_OpenInvoiceDetail (/**string*/ description)
+{
+	var xpath = "//label[contains(@aria-label, '" + description +"')]";
+	var obj = CrmFindObject(xpath);
+	if (obj)	
+	{
+		obj.object_name = description;
+			obj._DoLDClick();
+	}
+	else
+	{
+		LogAssert("OpenInvoiceDetail: description element is not found: " + description, false);
+	}	
+}
+
+function ux_OLDOpenInvoiceDetail (/**string*/ description)
 {
 	var xpath = "//div[contains(@title, '" + description +"')]";
 	var obj = CrmFindObject(xpath);
@@ -673,7 +675,23 @@ function ux_NewTransaction ()
 
 }
 
-function ux_GridSelectAll ()
+function ux_OLDGridSelectAll ()
+{	
+	
+	var xpath = "//span[@role='checkbox' and @aria-label='Toggle selection of all rows']/div/i[@data-icon-name='StatusCircleCheckmark']";
+	var obj = CrmFindObject(xpath);
+		if (obj)
+		{
+			obj.DoClick();
+		}
+		else
+		{
+			LogAssert("Select All: grid element not found", false);
+		}
+
+}
+
+function ux_OLDGridSelectAll ()
 {	
 	
 	var xpath = "//button[@title='Select All']";
@@ -688,7 +706,6 @@ function ux_GridSelectAll ()
 		}
 
 }
-
 function ux_GridDeactivate ()
 {
 	var xpath = "//button[@aria-label='Deactivate']";
@@ -836,6 +853,35 @@ function ux_SelectAssociatedView (/**string*/ record)
 
 function ux_GridCancelAll ()
 {
+	var xpathselectall = "//span[@role='checkbox' and @aria-label='Toggle selection of all rows']/div/i[@data-icon-name='StatusCircleCheckmark']";
+	var obj = CrmFindObject(xpathselectall);
+		if (obj)
+		{
+			obj.DoClick();
+		}
+		
+
+					{
+						ux_ClickButton('Cancel Selected Detail')
+					}
+					
+					var xpathOK = "//iframe[@id='FullPageWebResource']@@@//button[@id='btnOk']";
+					var obj = CrmFindObject(xpathOK);
+					if (obj)
+					{
+						obj.DoClick();
+					}
+					
+		
+		else
+		{
+			LogAssert("Grid element not found", false);
+		}
+
+}
+
+function ux_OLDGridCancelAll2 ()
+{
 	var xpathselectall = "//button[@title='Select All']";
 	var obj = CrmFindObject(xpathselectall);
 		if (obj)
@@ -897,6 +943,36 @@ function ux_OLDGridCancelAll ()
 }
 
 function ux_GridDeleteAll ()
+{
+	var xpathselectall = "//span[@role='checkbox' and @aria-label='Toggle selection of all rows']/div/i[@data-icon-name='StatusCircleCheckmark']";
+	var obj = CrmFindObject(xpathselectall);
+		if (obj)
+		{
+			obj.DoClick();
+			Global.DoSleep(1000);
+		}
+		
+
+					{
+						ux_ClickButton('Delete')
+					}
+					
+					var xpathOK = "//span[contains(@id, 'confirmButton')]";
+					var obj = CrmFindObject(xpathOK);
+					if (obj)
+					{
+						obj.DoClick();
+					}
+					
+		
+		else
+		{
+			LogAssert("Grid element not found", false);
+		}
+
+}
+
+function ux_OLDGridDeleteAll2 ()
 {
 	var xpathselectall = "//button[@title='Select All']";
 	var obj = CrmFindObject(xpathselectall);
@@ -1526,7 +1602,7 @@ function ux_WaitForButton(/**string*/ name)
 {
     var xpath = "//button[@aria-label='" + name + "']";
 	var obj = CrmFindObject(xpath);
-	obj.DoEnsureVisible();
+	obj._DoEnsureVisible();
 }
 
 function GetDatasheetVal(/**string*/ filename, /**string*/ sheetName, /**string*/ testName, /**string*/ columnName)
