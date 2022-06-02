@@ -6,5 +6,5 @@ Reports
 *.tap
 Repository.json
 record.cmd
-*.bak
 play.cmd
+*.bak
