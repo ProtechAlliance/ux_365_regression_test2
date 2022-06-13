@@ -98,7 +98,7 @@
     <TestParam name="ServerTestCaseId" variable="g_serverTestCaseId" defaultValue="283" output="false" ask="false">
       <PossibleValues />
     </TestParam>
-    <TestParam name="Source Type" variable="g_serverRepositoryType" defaultValue="spira" output="false" ask="false">
+    <TestParam name="Source Type" variable="g_serverRepositoryType" defaultValue="git" output="false" ask="false">
       <PossibleValues />
     </TestParam>
   </TestParams>
