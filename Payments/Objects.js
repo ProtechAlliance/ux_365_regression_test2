@@ -1,30 +1,4 @@
 var saved_script_objects={
-	"G_OpenAreaList": {
-		"locations": [
-			{
-				"locator_name": "HTML",
-				"location": {
-					"xpath": "param:xpath",
-					"url": "param:url",
-					"title": "param:title"
-				}
-			}
-		],
-		"window_class": "Chrome_WidgetWin_0",
-		"object_text": "Chrome Legacy Window",
-		"object_role": "ROLE_SYSTEM_WINDOW",
-		"object_class": "Chrome_RenderWidgetHostHWND",
-		"version": 0,
-		"object_type": "HTMLObject",
-		"object_flavor": "Button",
-		"object_name": "My Work (change area)",
-		"ignore_object_name": true,
-		"object_library": "Chrome HTML",
-		"window_name": "Navigation",
-		"xpath": "//button[@type='button' and @data-id='sitemap-areaSwitcher-expand-btn' and @data-lp-id='sitemap-areaSwitcher-expand-btn' and @id='areaSwitcherId']",
-		"title": "UX Membership Dashboard - Microsoft Dynamics 365",
-		"url": ""
-	},
 	"Invoice_SelectBatch": {
 		"locations": [
 			{
