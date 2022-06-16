@@ -562,32 +562,6 @@ var saved_script_objects={
 		"title": "Invoice: UX365 Transaction: New - Microsoft Dynamics 365",
 		"url": ""
 	},
-	"Transaction_Meetings": {
-		"locations": [
-			{
-				"locator_name": "HTML",
-				"location": {
-					"xpath": "param:xpath",
-					"url": "param:url",
-					"title": "param:title"
-				}
-			}
-		],
-		"window_class": "Chrome_WidgetWin_1",
-		"object_text": "Chrome Legacy Window",
-		"object_role": "ROLE_SYSTEM_WINDOW",
-		"object_class": "Chrome_RenderWidgetHostHWND",
-		"version": 0,
-		"object_type": "HTMLObject",
-		"object_flavor": "Button",
-		"object_name": "Meetings",
-		"ignore_object_name": true,
-		"object_library": "Chrome HTML",
-		"window_name": "Invoice_AddTransaction",
-		"xpath": "//button[@type='button' and @data-id='200000' and @data-lp-id='Form:invoice-200000']",
-		"title": "Invoice: UX365 Transaction: New - Microsoft Dynamics 365",
-		"url": ""
-	},
 	"Product_ProductName": {
 		"locations": [
 			{

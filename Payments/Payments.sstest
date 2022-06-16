@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" v="18" t="">
+  <tags />
+  <Tags />
   <ScriptPath>Main.js</ScriptPath>
   <UserFunctionsPath>..\User.js</UserFunctionsPath>
   <ObjectsPath>Objects.js</ObjectsPath>
@@ -11,12 +13,14 @@
   <ObjectLookupAttempts>30</ObjectLookupAttempts>
   <ObjectLookupAttemptInterval>300</ObjectLookupAttemptInterval>
   <ShowReport>true</ShowReport>
+  <JSEngineType>Default</JSEngineType>
   <BeautifySavedObjects>true</BeautifySavedObjects>
   <SaveRecordingScreenshots>false</SaveRecordingScreenshots>
   <SavePlaybackScreenshots>false</SavePlaybackScreenshots>
   <SavePlaybackScreenshotsInTestReport>false</SavePlaybackScreenshotsInTestReport>
   <SaveScreenshotObjectOnly>false</SaveScreenshotObjectOnly>
   <SaveScreenshotsCaptureCursor>true</SaveScreenshotsCaptureCursor>
+  <SaveScreenshotOnFailure>false</SaveScreenshotOnFailure>
   <CommandLine />
   <EntryPoint>Test</EntryPoint>
   <WorkDir>..\.</WorkDir>
@@ -67,7 +71,7 @@
     <TestParam name="ServerTestCaseId" variable="g_serverTestCaseId" defaultValue="284" output="false" ask="false">
       <PossibleValues />
     </TestParam>
-    <TestParam name="Source Type" variable="g_serverRepositoryType" defaultValue="spira" output="false" ask="false">
+    <TestParam name="Source Type" variable="g_serverRepositoryType" defaultValue="git" output="false" ask="false">
       <PossibleValues />
     </TestParam>
   </TestParams>
