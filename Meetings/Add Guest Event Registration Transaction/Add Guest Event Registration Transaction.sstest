@@ -4,7 +4,7 @@
   <Tags />
   <ScriptPath>Main.js</ScriptPath>
   <UserFunctionsPath>..\..\User.js</UserFunctionsPath>
-  <ObjectsPath>..\Objects.js</ObjectsPath>
+  <ObjectsPath>..\MeetingObjects.js</ObjectsPath>
   <ReportPath>Add Guest Event Registration Transaction.trp</ReportPath>
   <CommandInterval>1000</CommandInterval>
   <IterationsCount>1</IterationsCount>

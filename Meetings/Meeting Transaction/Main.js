@@ -7,5 +7,5 @@ function Test(params)
 	RVL.DoPlayScript("%WORKDIR%\\Meetings\\Meeting Transaction\\Main.rvl.xlsx", Tester.GetParam("sheetName", "RVL"));
 }
 
-g_load_libraries=["%g_browserLibrary%"]
+g_load_libraries=["%g_browserLibrary%", "DomDynamicsCrm"]
 
