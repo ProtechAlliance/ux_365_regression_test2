@@ -68,6 +68,18 @@
     <TestParam name="Detect Web Plugins" variable="g_webPluginsAutoDetect" defaultValue="False" description="Enable web plugins auto detection" output="false" ask="false">
       <PossibleValues />
     </TestParam>
+    <TestParam name="ServerProjectId" variable="g_serverProjectId" defaultValue="11" output="false" ask="false">
+      <PossibleValues />
+    </TestParam>
+    <TestParam name="ServerTestCaseFolderId" variable="g_serverTestCaseFolderId" defaultValue="78" output="false" ask="false">
+      <PossibleValues />
+    </TestParam>
+    <TestParam name="ServerTestCaseId" variable="g_serverTestCaseId" defaultValue="331" output="false" ask="false">
+      <PossibleValues />
+    </TestParam>
+    <TestParam name="Source Type" variable="g_serverRepositoryType" defaultValue="git" output="false" ask="false">
+      <PossibleValues />
+    </TestParam>
   </TestParams>
   <Methodology>Web</Methodology>
   <MethodologyOptions>
