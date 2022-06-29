@@ -136,9 +136,12 @@ function ux_OLDOpenEntity(/**string*/ entity)
 /**
  * Clicks button on a toolbar.
  */
+ 
+
+
 function ux_ClickButton(/**string*/ name)
 {
-	var xpath = "//button[@aria-label='" + name + "']";
+	var xpath = "//button[@aria-label='" + name + "']"
 	var obj = CrmFindObject(xpath);
 	if (obj)	
 	{
@@ -1596,8 +1599,15 @@ function ux_OLDAddSession(/**string*/ session)
     }
 }
 
-
 function ux_WaitForButton(/**string*/ name)
+
+{
+    var xpath = "//button[contains(@aria-label, '" + name +"')]";
+	var obj = CrmFindObject(xpath);
+	obj._DoEnsureVisible();
+}
+
+function ux_OLDWaitForButton(/**string*/ name)
 
 {
     var xpath = "//button[@aria-label='" + name + "']";
