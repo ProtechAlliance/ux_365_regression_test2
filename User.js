@@ -840,6 +840,8 @@ function ux_OpenAssociatedView (/**string*/ record)
 	}	
 }
 
+
+
 function ux_SelectAssociatedView (/**string*/ record)
 {
 	var xpath = "//div[@role='grid']//label[normalize-space(.)='" + record + "']";
